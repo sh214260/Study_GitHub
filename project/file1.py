@@ -1,3 +1,3 @@
 print("shira")
 
-print("tttttt")
+print("rut")
