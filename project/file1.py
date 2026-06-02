@@ -1,4 +1,4 @@
-print("shira good teacher2")
+print("shira good teacher1")
 
 print("rut")
 
