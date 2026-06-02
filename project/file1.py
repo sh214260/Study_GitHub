@@ -1,3 +1,3 @@
-print("shira good teacher1")
+print("shira good teachertttt")
 
 print("rutuuuuu")
